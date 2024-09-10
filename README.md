@@ -1,2 +1,2 @@
-# fall-asn-4-2
-This is a repository for each team's GitHub Flavored Markdown assignment.
+# fall-asn-4-1-2
+This ASN4.1.2. Please follow the steps in template.qmd
