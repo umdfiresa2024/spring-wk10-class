@@ -6,7 +6,9 @@ editor: visual
 
 The goal of this assignment is to review basic R functions that was taught and review the dataframe that was created to answer each team's research question.
 
-In Week 3's class, each student will work on each step using data from "Defensive Investments and the Impact on Air Quality by Deschenes et al. (2017). In the lab, each student will modify the document to include the dataframe that was developed in FIRE198.
+In Week 3's class, each student will work on each step using data from "Defensive Investments and the Impact on Air Quality by Deschenes et al. (2017).
+
+In the lab, each student will make a copy of this document in their team's GitHub repository. Afterward, the team will modify the document to include the dataframe that was developed in the Spring semester.
 
 Step 1. Install necessary packages.
 
@@ -90,7 +92,7 @@ Step 9: Change the document format to gfm
 
 Step 10: Save this document as README.qmd
 
-Step 11: Render the document
+Step 11: Render the document. README.md file should be created after this process.
 
 Step 12: Push the document back to GitHub and observe your beautiful document in your repository!
 
